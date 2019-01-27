@@ -1,0 +1,32 @@
+
+.colomn{
+  width:600;
+  float:left;
+  text-align:center;;
+}
+img{
+  float:left;
+}
+h1{
+  color:#0000ff;
+  text-align:center;
+  }
+
+  }
+  .important{
+font-style: italic;
+  }
+}
+ .important ul a{
+  font-weight: bold;
+}
+
+p a{
+  background-color:purple
+}
+.myboxmodel {
+  margin: 5px;
+  border:
+  padding: 15px;
+  background-color: lightgray;
+}
